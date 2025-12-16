@@ -3895,6 +3895,10 @@ figcaption {
     margin-right: 0;
   }
 
+  .text-size-medium.justified {
+    text-align: left;
+  }
+
   .heading-style-h2 {
     font-size: 1.5rem;
   }
@@ -3931,6 +3935,10 @@ figcaption {
 
   .heading-style-h4 {
     font-size: 1.25rem;
+  }
+
+  .text-size-regular {
+    font-size: .875rem;
   }
 
   .heading-style-h3 {
