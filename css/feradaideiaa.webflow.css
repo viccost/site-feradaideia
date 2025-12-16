@@ -4109,9 +4109,14 @@ figcaption {
     border-radius: 1rem;
   }
 
+  .service-name {
+    padding-left: .875rem;
+    padding-right: .875rem;
+  }
+
   .service-description {
-    padding-left: .75rem;
-    padding-right: .75rem;
+    padding-left: .875rem;
+    padding-right: .825rem;
   }
 
   .service-component {
